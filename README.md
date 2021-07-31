@@ -1,6 +1,6 @@
 # The Future of Work #
 
-![Full Stack Developer](https://scontent.faqa1-1.fna.fbcdn.net/v/t1.18169-9/27540659_514488258937600_7821465422539075520_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=2kcduQE2qUsAX-8NcBr&_nc_ht=scontent.faqa1-1.fna&oh=4cb69c1bd74e78dc53b7d9fcecff778c&oe=61288114)
+![Robot](https://miro.medium.com/max/1000/1*6IOv24zYgd_Zt5iqYGridg.jpeg)
 
 ### [The Future of Work](https://100jobsofthefuture.com/ "Prepare-se") ###
 
