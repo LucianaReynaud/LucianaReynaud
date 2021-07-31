@@ -18,8 +18,8 @@
     
 ## What is important to know
 
-|Age|Ability1| Ability2| Ability3 | Ability4 |
-|---|---|---| --- | --- |
-|Adult | Autodidacticism | Biology | English | Programming |
-|Adolescent | Autodidacticism | Biology | English | Programming |
-|Child | Autodidacticism | Biology | English | Programming |
+|Age|Ability1| Ability2| Ability3 |
+|---|---|---| --- | 
+|Adult | Biology | English | Programming |
+|Adolescent | Biology | English | Programming |
+|Child | Biology | English | Programming |
