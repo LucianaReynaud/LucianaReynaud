@@ -1,8 +1,6 @@
-# The Future of Work #
+## [The Future of Work](https://100jobsofthefuture.com/ "Prepare-se") ##
 
 ![Robot](https://miro.medium.com/max/1000/1*6IOv24zYgd_Zt5iqYGridg.jpeg)
-
-### [The Future of Work](https://100jobsofthefuture.com/ "Prepare-se") ###
 
 ## By the authorities ##
 
