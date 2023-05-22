@@ -12,7 +12,7 @@
 
 ### Some abilities won't be _automated_, such as: ###
 
-```manual dexterity, emotional response, creativity in problem solving, ethical decisions```
+```emotional response, creativity in problem solving, ethical decisions```
     
 ## What is important to know
 
