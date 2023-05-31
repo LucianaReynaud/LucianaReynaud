@@ -13,6 +13,8 @@
 ### Some abilities won't be _automated_, such as: ###
 
 ```emotional response, creativity in problem solving, ethical decisions```
+
+Note: ethical decisions will be automated and humanity will learn to be ethical with AGI feedback
     
 ## What is important to know
 
